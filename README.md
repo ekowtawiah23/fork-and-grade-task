@@ -9,7 +9,7 @@
 6. Create a pull request (PR) to this repository.
 
 ## Questions
-1. What is a commit in Git?
+1. What is a commit in Git? 
 2. What is a branch in Git?
 3. What is a pull request in GitHub?
 4. How do you initialize a new Git repository?
