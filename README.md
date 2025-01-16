@@ -5,7 +5,7 @@
 2. Clone your forked repository to your local machine.
 3. Add a new file named `solution.txt`.
 4. Write your answers in the file.
-5. Commit your changes and push them to your forked repository.
+5. Commit your changes and push them to your forked repository. 
 6. Create a pull request (PR) to this repository.
 
 ## Questions
