@@ -1,7 +1,7 @@
 # Git Gurus Assignment
 
 ## Task
-1. Fork this repository.
+1. Fork this repository. 
 2. Clone your forked repository to your local machine.
 3. Add a new file named `solution.txt`.
 4. Write your answers in the file.
